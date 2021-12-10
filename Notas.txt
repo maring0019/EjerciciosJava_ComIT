@@ -1,0 +1,2 @@
+Esta es una carpeta que contiene los ejercicios de las diferentes temas
+del curso de Java de Comnidad IT.
